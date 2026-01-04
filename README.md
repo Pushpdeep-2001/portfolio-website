@@ -24,7 +24,7 @@ A modern, responsive portfolio website built with **Next.js** and **React**, fea
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Pushpdeep-2001/my-portfolio.git
+   git clone <repository-url>
    cd my-portfolio
    ```
 
