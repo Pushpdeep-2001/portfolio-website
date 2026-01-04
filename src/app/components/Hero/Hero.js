@@ -47,7 +47,7 @@ export default function Hero() {
                     transition={{ delay: 0.5 }}
                 >
                     <motion.a
-                        href="/" // Placeholder
+                        href="/Pushpdeep-Resume2025.pdf" // Placeholder
                         download
                         className={styles.resumeBtn}
                         whileHover={{ scale: 1.05 }}
