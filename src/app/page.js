@@ -3,6 +3,7 @@
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero";
 import About from "./components/About/About";
+import Blogs from "./components/Blogs/Blogs";
 import Experience from "./components/Experience/Experience";
 import Projects from "./components/Projects/Projects";
 import Skills from "./components/Skills/Skills";
@@ -17,6 +18,8 @@ export default function Home() {
       <Navbar />
       <Hero />
       <About />
+      <Blogs limit={3} />
+
       <Experience />
       <Projects />
       <Skills />
@@ -27,3 +30,4 @@ export default function Home() {
     </main>
   );
 }
+

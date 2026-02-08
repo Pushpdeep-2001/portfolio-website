@@ -6,11 +6,14 @@ import styles from "./Navbar.module.css";
 import ThemeToggle from "../ThemeToggle/ThemeToggle";
 
 const navItems = [
-    { name: "About", href: "#about" },
-    { name: "Experience", href: "#experience" },
-    { name: "Projects", href: "#projects" },
-    { name: "Contact", href: "#contact" },
+    { name: "About", href: "/#about" },
+    { name: "Blogs", href: "/#blogs" },
+    { name: "Experience", href: "/#experience" },
+    { name: "Projects", href: "/#projects" },
+    { name: "Contact", href: "/#contact" },
 ];
+
+
 
 export default function Navbar() {
     return (

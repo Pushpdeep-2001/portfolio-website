@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "title": "What is a DDoS attack?",
+        "date": "Feb 8, 2026",
+        "summary": "An overview of distributed denial-of-service (DDoS) attacks, explaining how attackers flood servers with fake traffic using compromised systems.",
+        "tags": [
+            "DDoS",
+            "Cybersecurity",
+            "Web Security"
+        ],
+        "link": "https://www.notion.so/What-is-a-DDoS-attack-2e513ca006ca803eb2a1dd3306ad5e5b"
+    },
+    {
+        "id": 2,
+        "title": "API Gateways: Front Door for Microservices",
+        "date": "Feb 10, 2026",
+        "summary": "Discover how API Gateways serve as a unified entry point in distributed systems, simplifying client requests and handling backend orchestration.",
+        "tags": [
+            "API Gateway",
+            "Microservices",
+            "Software Architecture"
+        ],
+        "link": "https://www.notion.so/What-is-an-API-Gateway-2e513ca006ca80ecbd73fd711aa59ac2"
+    },
+    {
+        "id": 3,
+        "title": "Load Balancers: Optimizing Traffic for Distributed Systems",
+        "date": "Feb 12, 2026",
+        "summary": "Uncover how load balancing distributes traffic across servers and resources to boost efficiency, reduce latency, and ensure fault tolerance.",
+        "tags": [
+            "Load Balancing",
+            "Scalability",
+            "System Architecture"
+        ],
+        "link": "https://www.notion.so/What-is-Load-balancer-and-what-is-Load-balancing-2e513ca006ca80d5bb33db082649aa50"
+    },
+    {
+        "id": 4,
+        "title": "Reverse Proxies: Nginx as the Hidden Guardian",
+        "date": "Feb 14, 2026",
+        "summary": "Delve into reverse proxies like Nginx, which shield backend servers by intercepting and routing client requests, providing abstraction.",
+        "tags": [
+            "Reverse Proxy",
+            "Nginx",
+            "Web Security",
+            "Server Architecture"
+        ],
+        "link": "https://www.notion.so/What-is-Reverse-Proxy-Nginx-2e513ca006ca80999e20d79c2678e786"
+    },
+    {
+        "id": 5,
+        "title": "Evolution of HTTP: From 1.0 to HTTP/2",
+        "date": "Feb 16, 2026",
+        "summary": "Trace the journey of HTTP protocols from early versions to modern advancements, highlighting key improvements in performance, security, efficiency.",
+        "tags": [
+            "HTTP",
+            "Web Protocols",
+            "Networking",
+            "Internet Evolution"
+        ],
+        "link": "https://www.linkedin.com/pulse/evolution-http-pushpdeep-singh-vhzqc/?trackingId=6ccgwcbSTh%2BTAIwAu%2BrU5g%3D%3D"
+    },
+    {
+        "id": 6,
+        "title": "Redis Pub/Sub: Real-Time Messaging Simplified",
+        "date": "Feb 18, 2026",
+        "summary": "Explore Redis Pub/Sub as a decoupled messaging pattern for instant communication—like a radio broadcast—ideal for chat apps and live updates.",
+        "tags": [
+            "Redis",
+            "Pub/Sub",
+            "Real-time Systems"
+        ],
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7375458929964888064/"
+    },
+    {
+        "id": 7,
+        "title": "WebSockets and Socket.IO: Real-Time Web Revolution",
+        "date": "Feb 20, 2026",
+        "summary": "Dive into WebSockets for persistent, bidirectional client-server communication, enhanced by Socket.IO's abstractions for easier real-time features.",
+        "tags": [
+            "WebSocket",
+            "Socket.IO",
+            "Real-time Web"
+        ],
+        "link": "https://pushpdeep.hashnode.dev/websocket-and-socketio-revolutionizing-web-interactivity"
+    }
+]

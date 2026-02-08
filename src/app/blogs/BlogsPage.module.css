@@ -1,0 +1,23 @@
+.headerSpacer {
+    height: 100px;
+}
+
+.backLink {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--primary);
+    font-weight: 500;
+    margin-top: 2rem;
+    transition: all 0.3s ease;
+    width: fit-content;
+}
+
+.backLink:hover {
+    gap: 0.8rem;
+    transform: translateX(-5px);
+}
+
+.backLink span {
+    font-size: 1.2rem;
+}
